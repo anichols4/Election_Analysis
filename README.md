@@ -1,7 +1,7 @@
-# Election_Analysis
+# Election Analysis
 
 ## Project Overview
-A Colorado Board of Elections employee has given you the following tasks to complete the election audit of a recent local congressional election.
+A Colorado Board of Elections employee has requested an election audit of a recent local congressional election be completed.  The Board requested that the following tasks be completed:
 
 1. Calculate the total number of votes cast.
 2. Get a complete list of candidates who received votes.
@@ -11,22 +11,30 @@ A Colorado Board of Elections employee has given you the following tasks to comp
 
 ## Resources
 -Data Source: election_results.csv
--Software: Python 3.6.1, Visual Studio Code, 1.38.1
+-Software: Python 3.7.6, Visual Studio Code, 1.38.1
 
-## Summary
-The analysis of the election show that:
--There were "x" votes cast in the election.
+## Results
+The analysis of the election showed that:
+-There were 369,711 votes cast in the election.
+-The counties voting in the election were:
+  -Jefferson 
+  -Denver
+  -Arapahoe
+-The breakdown for the total votes for each county in the precinct were:
+  -Jefferson county was responsible for 10.5% of the vote with 38,855 votes.
+  -Denver county was responsible for 82.8% of the vote with 306,055 votes.
+  -Arapahoe county was responsible for 6.7% of the vote with 24,801 votes.
+-The county with the largest number of votes was Denver.
 -The candidates were:
-  -Candidate 1
-  -Candidate 2
-  -Candidate 3
+  -Charles Casper Stockholm
+  -Diana DeGette
+  -Raymon Anthony Doanne
 -The candidate results were:
-  -Candidate 1 received "x%" of the vote and "y" number of votes.
-  -Candidate 2 received "x%" of the vote and "y" number of votes.
-  -Candidate 3 received "x%" of the vote and "y" number of votes.
+  -Charles Casper Stockholm received 23.0% of the vote and 85,213 of votes.
+  -Diana DeGette received 73.8% of the vote and 272,892 of votes.
+  -Raymon Anthony Doane received 3.1% of the vote and 11,606 of votes.
 -The winner of the election was:
-  Candidate(1,2, or 3), who received "x%" of the vote and "y" number of votes.
-  
-## Challenge Overview
+  Diana DeGette, who received 73.8% of the vote and 272,892 of votes.
 
-## Challenge Summary
+## Project Summary
+We successfully completed the election audit for the precinct requested by the Colorado Board of Election employee.  The script used for this audit can be used for any election by changing the source file in order to retrieve the candidates and counties voting for any election precinct.
