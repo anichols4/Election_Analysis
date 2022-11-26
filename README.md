@@ -10,30 +10,30 @@ A Colorado Board of Elections employee has requested an election audit of a rece
 5. Determine the winner of the election based on popular vote.
 
 ## Resources
--Data Source: election_results.csv
--Software: Python 3.7.6, Visual Studio Code, 1.38.1
+- Data Source: election_results.csv
+- Software: Python 3.7.6, Visual Studio Code, 1.38.1
 
 ## Results
 The analysis of the election showed that:
--There were 369,711 votes cast in the election.
--The counties voting in the election were:
-  -Jefferson 
-  -Denver
-  -Arapahoe
--The breakdown for the total votes for each county in the precinct were:
-  -Jefferson county was responsible for 10.5% of the vote with 38,855 votes.
-  -Denver county was responsible for 82.8% of the vote with 306,055 votes.
-  -Arapahoe county was responsible for 6.7% of the vote with 24,801 votes.
--The county with the largest number of votes was Denver.
--The candidates were:
-  -Charles Casper Stockholm
-  -Diana DeGette
-  -Raymon Anthony Doanne
--The candidate results were:
-  -Charles Casper Stockholm received 23.0% of the vote and 85,213 of votes.
-  -Diana DeGette received 73.8% of the vote and 272,892 of votes.
-  -Raymon Anthony Doane received 3.1% of the vote and 11,606 of votes.
--The winner of the election was:
+- There were 369,711 votes cast in the election.
+- The counties voting in the election were:
+  - Jefferson 
+  - Denver
+  - Arapahoe
+- The breakdown for the total votes for each county in the precinct were:
+  - Jefferson county was responsible for 10.5% of the vote with 38,855 votes.
+  - Denver county was responsible for 82.8% of the vote with 306,055 votes.
+  - Arapahoe county was responsible for 6.7% of the vote with 24,801 votes.
+- The county with the largest number of votes was Denver.
+- The candidates were:
+  - Charles Casper Stockholm
+  - Diana DeGette
+  - Raymon Anthony Doanne
+- The candidate results were:
+  - Charles Casper Stockholm received 23.0% of the vote and 85,213 of votes.
+  - Diana DeGette received 73.8% of the vote and 272,892 of votes.
+  - Raymon Anthony Doane received 3.1% of the vote and 11,606 of votes.
+- The winner of the election was:
   Diana DeGette, who received 73.8% of the vote and 272,892 of votes.
 
 ## Project Summary
